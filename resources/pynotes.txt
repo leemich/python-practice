@@ -1,0 +1,15 @@
+NOTES ON PYTHON
+Stuff I want to remember
+
+random.randint() is inclusive of the end of the range,
+and does not take a step argument
+
+random.randrange() is not inclusive of the end of the range,
+like other range functions, and allows you to specify
+a step.
+
+------------------
+
+Use global x to modify a global variable inside of a function's
+local scope.
+
