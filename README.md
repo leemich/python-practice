@@ -7,7 +7,7 @@ I expect there will be a lot of kludged together code that (hopefully) improves 
 This is mostly for my own sanity as I code on two different computers and want access to 
 all of my scripts from both machines. It is also helping me get more comfortable with Git.
 
-Some of these scripts are exercises and examples from http://programarcadegames.com/index.php?chapter=lab_camel&lang=en.
+Some of these scripts are exercises and examples from http://programarcadegames.com/
 
 Some are exercises from https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit
 
